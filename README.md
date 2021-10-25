@@ -5,7 +5,7 @@ This pizza-ordering bot was developed by me and a classmate for the final projec
 
 The bot is built with Python and was developed in a Linux environment, and I have ported it to a Jupyter notebook and am now developing it in Visual Studio Code.  Running the first two code blocks will define most of the bot's functions, and train the bot using our training data.   
 
-The third code block starts the dialogue, so check out the menu file, place an order from the great (and fictitious) Tony's Pizzeria, and save me a slice!
+The third code block starts the dialogue, so check out the menu file (created thanks to canva.com), place an order from the great (and fictitious) Tony's Pizzeria, and save me a slice!
 
 Some of the features of the bot include:
   - free-input style
